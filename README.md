@@ -7,7 +7,7 @@
 
 
 ## About me
-**The structure of the web has always interested me.**. I had worked in the security sector for a couple of years when I made the decision to shift careers in 2019. Prior to beginning my higher vocational education, I had no knowledge of programming, frontend, backend, or fullstack roles. Three years later, my degree is now complete, and my journey has only just begun.
+**The structure of the web has always interested me**. I had worked in the security sector for a couple of years when I made the decision to shift careers in 2019. Prior to beginning my higher vocational education, I had no knowledge of programming, frontend, backend, or fullstack roles. Three years later, my degree is now complete, and my journey has only just begun.
 
 **Since then I haven't stopped learning and creating.** 
 
