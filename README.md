@@ -3,7 +3,7 @@
 #### Frontend:  Typescript | Javascript | React | GraphQL | Nextjs <br/>
 #### Backend: Node.js | Prisma | Docker <br/>
 #### Dev-Ops: AWS <br/>
-####  explore and discover :world_map: & a smashburger enthusiast :hamburger:
+####  exploring, discovering & a smashburger enthusiast :hamburger:
 
 
 ## About me
