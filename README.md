@@ -1,17 +1,9 @@
-# Mattias Andersen  
-#### Software Developer <br/>
-#### Frontend:  Typescript | Javascript | React | GraphQL | Nextjs <br/>
-#### Backend: Node.js | Prisma | Docker <br/>
-#### Dev-Ops: AWS <br/>
-####  exploring, discovering & a smashburger enthusiast :hamburger:
+[<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/AndersenMattias)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mattias-andersen)
 
-
-## About me
-**The structure of the web has always interested me**. I had worked in the security sector for a couple of years when I made the decision to shift careers in 2019. Prior to beginning my higher vocational education, I had no knowledge of programming, frontend, backend, or fullstack roles. Three years later, my degree is now complete, and my journey has only just begun.
-
-**Since then I haven't stopped learning and creating.** 
-
-## Get in touch 
-Portfolio: [mattias-andersen.com](https://mattias-andersen.com/)
-
-Email: andersenmattias.1@gmail.com
+- [![BR](https://b-r.io/favicons/favicon-16x16.png)](https://mattias-andersen.com/) 
+- 🔗 Feel free to checkout my [portfolio](https://mattias-andersen.com/) website!
+- 🏢 Software Developer (Full Stack with focus on Frontend) [@Consid](https://consid.se/en/), in Malmo Sweden
+- 📚 I build with: `React.js`, `Typescript`, `Next.js`, `Sass`, `Sitevision`, `Node.js` ...
+- ⚡ I enjoy lifting weights, learning new technology and spending time with my family 
+- 📫 Reach out to me: andersenmattias.1@gmail.com
